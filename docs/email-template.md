@@ -1,43 +1,49 @@
 # Email Template — Christalyn sends to all 101 interns
 
-**Subject:** LifeAtlas Contributor Program — Your Screening Challenge (7 days)
+**Subject:** WINNIIO Internship — Pre-Selection Challenge (complete before May 4)
 
 **To:** All 101 Amity University interns (via Priyanka Singh distribution)
-**CC:** nicolas@lifeatlas.online
+**CC:** ceo@winniio.io
 
 ---
 
 Hi everyone,
 
-Welcome to the LifeAtlas Contributor Program at WINNIIO.
+Welcome! You've been selected as a candidate for the WINNIIO / LifeAtlas internship program starting May 4, 2026.
 
-We're building the world's first edge-native digital twin OS, and you'll be working with our open-source AI platform — the Life Programmable Interface (LPI). Everything you build during this program goes on YOUR GitHub. It's your portfolio.
+Before the program begins, we'd like you to complete a **pre-selection challenge**. This helps us understand your skills and place you in the right team when the program starts. It also gives you a head start — everything you build now counts toward your internship.
 
-**Your first task: the Screening Challenge.**
+**Your challenge:**
 
 Go here: **https://github.com/Life-Atlas/lpi-developer-kit**
 
-Read the README. Complete as many levels as you can in 7 days:
+Read the README carefully. Complete as many levels as you can:
 
-- **Level 1** (5 min): Fork the repo, register yourself, submit a PR. Everyone who completes this is in the program.
-- **Level 2** (45-90 min): Run the LPI server + a local AI model on your laptop.
-- **Level 3** (2-4 hours): Build your first AI agent that connects to the LPI.
+- **Level 1** (5 min): Fork the repo, register yourself, submit a Pull Request. **Everyone who completes Level 1 is confirmed for the program.**
+- **Level 2** (45-90 min): Set up the development tools and run the LPI server on your laptop.
+- **Level 3** (2-4 hours): Build your first AI agent that connects to the LPI platform.
 
-Your highest completed level determines your starting position — but we measure growth, not starting point. Someone who starts at Level 1 and grows fast will be valued more than someone who coasts at Level 3.
+Your highest completed level determines your starting team and role — but we value growth over starting point. Someone who starts at Level 1 and improves quickly will be recognized more than someone who stays at Level 3 without progressing.
 
-**Deadline: [DATE — 7 days from send]**
+**Deadline: May 2, 2026** (two days before the program starts)
 
 **What you need:**
-- A GitHub account
-- Node.js 18+ installed
-- A laptop (any RAM — the README has options for all hardware)
-- Curiosity
+- A GitHub account (free)
+- Node.js 18+ installed on your laptop
+- Any laptop — the README has setup options for all hardware sizes
+- Curiosity and willingness to learn
 
-**Questions?** Post in the Teams channel: #lifeatlas-contributors
+**Important details about the program:**
+- **Duration:** 8 weeks (May 4 — June 27, 2026)
+- **Format:** Remote. Daily standups (camera on), weekly demos.
+- **What you build:** AI agents, tools, and modules on the LifeAtlas platform — all on YOUR GitHub, all in your portfolio.
+- **What you learn:** MCP protocol, AI agents, open-source LLMs, explainable AI, edge computing — industry-current skills, not textbook material.
+- **Certificate:** Contributors who complete the program receive a signed internship completion certificate and a letter of recommendation based on actual contributions.
+- **For Gaming / 3D / AR-VR students:** Complete Level 1 and Level 2 as above. Your Level 3 will be a separate brief focused on 3D visualization of digital twins — you'll receive it in Week 1.
 
-This is not a classroom exercise. You'll be building real AI agents on a real platform using protocols (MCP, A2A) that the industry is adopting right now. What you build here is what you show future employers.
+**Questions?** Post in the Teams channel: **#lifeatlas-contributors**
 
-Good luck. We're looking forward to seeing what you build.
+We're looking forward to seeing what you build. The best work from this challenge will be featured on our public leaderboard: https://life-atlas.github.io/lpi-developer-kit/
 
 Best,
 Christalyn
