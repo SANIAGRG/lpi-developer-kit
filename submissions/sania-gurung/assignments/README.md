@@ -6,34 +6,31 @@
 
 ---
 
-## Overview
-
-This folder contains research assignments I completed as part of the LPI program. Each assignment digs into a different area of AI systems — from real-world telecom infrastructure to how we classify and secure multi-agent AI.
-
----
-
 ## Assignments
 
 ### 1. AXON Networks (`axon-networks/`)
 
-Research into AXON Networks, a telecom AI company, covering:
+**Files:** `axon-networks-one-pager.md` · `axon-networks-one-pager.pdf` · `prompts.md`
 
-- **Product Architecture** — Understanding their NEURA platform, digital twin infrastructure, and Operations-as-a-Service (OaaS) model, and how it compares to general frameworks like LangChain and AutoGen
-- **Geopolitical Analysis** — What AXON's partnership with Cassava Technologies means for pan-African telecom, AI sovereignty, and who really controls critical infrastructure in emerging markets
-- **Cybersecurity** — What happens when an AI system autonomously controls live broadband — agent hijacking, digital twin breaches, and multi-tenant attack surfaces
-- **Build vs Buy** — When does it make sense to build your own agent framework vs using open-source tools?
+Research into AXON Networks and their NEURA platform, covering:
+
+- **What AXON Actually Does** — NEURA as a closed-loop telecom automation system built on a digital twin, sold as Operations-as-a-Service (OaaS)
+- **Geopolitical Dimension** — What it means when a foreign AI system autonomously controls a country's critical telecom infrastructure; AI sovereignty and long-term dependency risk
+- **Security Vulnerabilities** — Agent hijacking via telemetry manipulation, digital twin breaches, and multi-tenant isolation failures
+- **Build vs Buy** — Why domain-specific infrastructure demands proprietary builds, and when open-source is enough
 
 ---
 
 ### 2. AI Agents — Taxonomy and Ontologies (`AI AGENTS-taxonomy and ontologies/`)
 
-Deep research into how multi-agent AI systems are classified and modeled, covering:
+**Files:** `agentic-ai-one-pager.md` · `agentic-ai-one-pager.pdf` · `prompts.md`
 
-- **Framework Breakdown** — LangChain, LangGraph, CrewAI, AutoGen explained from scratch, with focus on where they break, not just what they do
-- **Multi-Dimensional Taxonomy** — Classifying agentic systems by coordination style, autonomy level (L1–L5), and deployment context (digital vs physical/embodied AI)
-- **Ontology Mapping** — Mapping all relationships: agent ↔ memory, tools, environment, other agents, audit layer, and governance policy
-- **Physical AI Gap** — How things change when you deploy AI in the physical world vs purely digital systems
-- **Cybersecurity Dimension** — Prompt injection, agent hijacking, inter-agent communication attacks, and audit trail manipulation
+Deep research into what AI agents are, how we classify them, and how to model everything they connect to, covering:
+
+- **Framework Comparison** — LangChain, LangGraph, CrewAI, and AutoGen — what each was built for and where each breaks in practice
+- **Taxonomy — Three Dimensions** — Coordination style (solo → swarm), autonomy level (L1–L5), and deployment context (digital → embodied)
+- **The Missing Dimension** — Consequence severity: the industry classifies agents without accounting for how bad the worst-case failure looks
+- **Ontology — Agent Relationships** — Memory, tools, environment, agent-to-agent trust, audit layer, and runtime governance — and what's missing in each
 
 ---
 
